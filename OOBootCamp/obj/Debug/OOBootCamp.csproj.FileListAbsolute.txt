@@ -1,0 +1,16 @@
+C:\Workspace\OOBootCamp\OOBootCamp\bin\Debug\OOBootCamp.dll
+C:\Workspace\OOBootCamp\OOBootCamp\bin\Debug\OOBootCamp.pdb
+C:\Workspace\OOBootCamp\OOBootCamp\bin\Debug\xunit.abstractions.dll
+C:\Workspace\OOBootCamp\OOBootCamp\bin\Debug\xunit.assert.dll
+C:\Workspace\OOBootCamp\OOBootCamp\bin\Debug\xunit.core.dll
+C:\Workspace\OOBootCamp\OOBootCamp\bin\Debug\xunit.execution.desktop.dll
+C:\Workspace\OOBootCamp\OOBootCamp\bin\Debug\xunit.abstractions.xml
+C:\Workspace\OOBootCamp\OOBootCamp\bin\Debug\xunit.assert.pdb
+C:\Workspace\OOBootCamp\OOBootCamp\bin\Debug\xunit.assert.xml
+C:\Workspace\OOBootCamp\OOBootCamp\bin\Debug\xunit.core.pdb
+C:\Workspace\OOBootCamp\OOBootCamp\bin\Debug\xunit.core.xml
+C:\Workspace\OOBootCamp\OOBootCamp\bin\Debug\xunit.execution.desktop.pdb
+C:\Workspace\OOBootCamp\OOBootCamp\bin\Debug\xunit.execution.desktop.xml
+C:\Workspace\OOBootCamp\OOBootCamp\obj\Debug\OOBootCamp.csprojResolveAssemblyReference.cache
+C:\Workspace\OOBootCamp\OOBootCamp\obj\Debug\OOBootCamp.dll
+C:\Workspace\OOBootCamp\OOBootCamp\obj\Debug\OOBootCamp.pdb
